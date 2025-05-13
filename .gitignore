@@ -1,0 +1,25 @@
+# Ignore secret directory and its contents
+secret/
+secret/*
+
+# Ignore specific sensitive files
+*.txt
+*.log
+*.sql
+*.snowsql
+
+# Environment and configuration files
+.env
+.env.*
+*.config
+*.conf
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db 
