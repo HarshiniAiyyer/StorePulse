@@ -4,21 +4,6 @@ A comprehensive Business Intelligence solution for retail analytics, built using
 
 ---
 
-## 📊 Dashboard
-
-![Orders Overview Dashboard](img/dashboard.png)
-
-*An interactive Power BI dashboard providing insights into sales, orders, customers, discounts, shipping, and more. Visuals include KPIs, pie charts, bar charts, line charts, and treemaps for deep business analysis.*
-
----
-
-## 🗂️ Data Model & Schema
-
-![Data Model Schema](img/schema.png)
-
-*Star schema data model: FactOrders at the center, connected to dimension tables (DimDate, DimProductData, DimStoreData, DimCustomer, DimLoyaltyInfo). This structure enables efficient analytical queries and flexible reporting.*
-
----
 
 ## 🏗️ Architecture
 
@@ -106,6 +91,23 @@ This solution implements a modern BI architecture with three main components:
   - Order per Brand Analysis (Donut Chart)
   - Age Group Analysis (Bar/Funnel Chart)
   - Month Wise Sales Analysis (Tree Map)
+
+
+## 🗂️ Data Model & Schema
+
+![Data Model Schema](img/schema.png)
+
+*Star schema data model: FactOrders at the center, connected to dimension tables (DimDate, DimProductData, DimStoreData, DimCustomer, DimLoyaltyInfo). This structure enables efficient analytical queries and flexible reporting.*
+
+---
+
+## 📊 Final Dashboard
+
+![Orders Overview Dashboard](img/dashboard.png)
+
+*An interactive Power BI dashboard providing insights into sales, orders, customers, discounts, shipping, and more. Visuals include KPIs, pie charts, bar charts, line charts, and treemaps for deep business analysis.*
+
+---
 
 ## 🚀 Getting Started
 
