@@ -7,6 +7,7 @@ A comprehensive Business Intelligence solution for retail analytics, built using
 ## 📊 Dashboard
 
 ![Orders Overview Dashboard](img/dashboard.png)
+
 *An interactive Power BI dashboard providing insights into sales, orders, customers, discounts, shipping, and more. Visuals include KPIs, pie charts, bar charts, line charts, and treemaps for deep business analysis.*
 
 ---
@@ -14,6 +15,7 @@ A comprehensive Business Intelligence solution for retail analytics, built using
 ## 🗂️ Data Model & Schema
 
 ![Data Model Schema](img/schema.png)
+
 *Star schema data model: FactOrders at the center, connected to dimension tables (DimDate, DimProductData, DimStoreData, DimCustomer, DimLoyaltyInfo). This structure enables efficient analytical queries and flexible reporting.*
 
 ---
