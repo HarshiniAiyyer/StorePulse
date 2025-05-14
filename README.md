@@ -103,9 +103,9 @@ This solution implements a modern BI architecture with three main components:
   - Store Type Analysis (Pie Chart)
   - Regional Sales Trends (Line Chart)
   - Region-wise Amount (Clustered Bar Chart)
-  - Program Tier Analysis (Donut Chart)
+  - Order per Brand Analysis (Donut Chart)
   - Age Group Analysis (Bar/Funnel Chart)
-  - Category Analysis (Tree Map)
+  - Month Wise Sales Analysis (Tree Map)
 
 ## 🚀 Getting Started
 
