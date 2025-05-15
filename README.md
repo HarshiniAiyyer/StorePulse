@@ -1,6 +1,6 @@
 # StorePulse : Retail BI Data Warehousing Project
 
-A comprehensive Business Intelligence solution for retail analytics, built using Snowflake, Power BI, and Python.
+A comprehensive BI solution for retail analytics, built using Snowflake, Power BI, and Python.
 
 ---
 
